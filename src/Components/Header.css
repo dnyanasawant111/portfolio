@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    justify-content:flex-end;
+    padding: 50px;
+    margin: 30px;
+    
+  }
+  .header1{
+    background-image: url("https://e0.pxfuel.com/wallpapers/627/591/desktop-wallpaper-better-start-of-a-future-technology-background-portfolio.jpg");
+    padding: 20px;
+    color: white;
+    margin: 8px;
+  }
+  .section{
+    display: grid;
+    grid-template-columns: auto auto;
+   
+    grid-gap:10px;
+    
+  }
+  .img1{
+    border: 6px solid wheat;
+   
+
+  }
+  .img1{
+    border: 6px solid wheat;
+  }
+  .footer{
+    text-align: center;
+    color:aliceblue;
+    background-color:black;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

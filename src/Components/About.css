@@ -1,0 +1,49 @@
+
+.about{
+    padding:2px;
+    background-image: url("https://wallpapertag.com/wallpaper/full/8/0/1/350871-website-background-1920x1200-high-resolution.jpg");
+  
+  }
+  .class1{
+    color:red;
+    font-size: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 30px;
+   
+  }
+  .class2{
+    color:white;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 80px;
+  }
+  .aboutImg{
+    border: 4px solid darkorange
+  }
+  .lang{
+    color: red;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .intrest{
+    color: red;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .pic{
+    width: 180px;
+    height: 180px;
+    border-radius: 50% ;
+    
+  }
+  .details{
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .details1{
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+  }
